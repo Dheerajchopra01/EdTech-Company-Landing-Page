@@ -1,0 +1,17 @@
+@media (min-width: 768px) {
+  /* We need newsletter input control shorter in medium screen */
+  .news-input {
+    width: 60%;
+  }
+}
+
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+}
