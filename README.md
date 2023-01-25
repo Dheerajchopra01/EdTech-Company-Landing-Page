@@ -1,4 +1,4 @@
-# EdTech-Company-Landing-Page-Bootstrap
+# EdTech-Company-Landing-Page
 
 This project is a static landing page for an ed-tech company. Website is responsive and can be browsed with great detail on all devices with different sizes. 
 Tech used - HTML5, CSS3, Bootstrap.
